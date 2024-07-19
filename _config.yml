@@ -4,3 +4,8 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+github:
+  repository_url: https://github.com/giovannicintra/repo
+  zip_url: https://github.com/giovannicintra/repo/zipball/main
+  tar_url: https://github.com/giovannicintra/repo/tarball/main
